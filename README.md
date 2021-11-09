@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @sanchitabhat
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning React
+- 📫 How to reach me : sanchitha.b34@gmail.com
